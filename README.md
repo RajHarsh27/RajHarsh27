@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Raj.
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Full Stack Developer.
+- 🌱 I’m a Frontend Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at rajharsh793@gmail.com.
 
